@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"consoled": "1.0.4",
+		"derelict-util": "3.0.0-beta.1",
+		"derelict_extras-jwt": "1.0.0"
+	}
+}

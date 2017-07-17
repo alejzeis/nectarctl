@@ -1,0 +1,13 @@
+{
+	"name": "nectarctl",
+	"authors": [
+		"jython234"
+	],
+	"description": "Command line management tool for nectar-server.",
+	"copyright": "Copyright (C) 2017, jython234",
+    "license": "MIT",
+    "dependencies": {
+		"derelict_extras-jwt": "~>1.0.0",
+		"consoled": "~>1.0.4"
+	}
+}

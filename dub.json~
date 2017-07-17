@@ -1,0 +1,9 @@
+{
+	"name": "nectarctl",
+	"authors": [
+		"jython234"
+	],
+	"description": "Command line management tool for nectar-server.",
+	"copyright": "Copyright (C) 2017, jython234",
+	"license": "MIT"
+}
